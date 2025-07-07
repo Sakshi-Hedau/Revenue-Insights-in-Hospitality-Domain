@@ -41,7 +41,7 @@ Users can dynamically filter visuals by Hotel Name, Room Type, and Date Range to
 • Market Share Recovery: Equipped decision-makers with insights that led to early intervention in declining metrics and helped stabilize revenue trends.
 
 ## Screenshots
-
+https://github.com/Sakshi-Hedau/Revenue-Insights-in-Hospitality-Domain/blob/main/Screenshot%202025-07-07%20140439.png
 
 
 
