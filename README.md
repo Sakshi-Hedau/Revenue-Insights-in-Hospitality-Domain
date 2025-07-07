@@ -11,14 +11,28 @@ The dashboard was built using the following tools and technologies:
 ### Business Problem    
 The hospitality industry often struggles with fluctuating occupancy rates, declining revenue, and ineffective pricing strategies across hotel properties. The revenue management team lacked a centralized, data-driven view to compare hotel performance and uncover underperforming areas.  
 Key questions such as:  
-Which hotels or room types are underperforming week over week?  
-How do revenue and occupancy trends differ by region or season?  
-What is the trend in ADR, RevPAR, and DSRN across properties? 
+• Which hotels or room types are underperforming week over week?  
+• How do revenue and occupancy trends differ by region or season?  
+• What is the trend in ADR, RevPAR, and DSRN across properties? 
 
 ### Goal of the Dashboard  
 To design an interactive Power BI dashboard that:  
-Consolidates three months of hotel booking data across multiple properties.  
-Enables dynamic filtering by hotel, room type, and time period.  
-Visualizes key KPIs including Revenue, Occupancy, ADR, RevPAR, and WoW changes.  
-Supports the revenue team in monitoring performance and making data-driven decisions to recover lost market share.  
+• Consolidates three months of hotel booking data across multiple properties.  
+• Enables dynamic filtering by hotel, room type, and time period.  
+• Visualizes key KPIs including Revenue, Occupancy, ADR, RevPAR, and WoW changes.  
+• Supports the revenue team in monitoring performance and making data-driven decisions to recover lost market share.  
+
+### Walkthrough of Key Visuals
+#### KPI Overview (Top Cards)
+Displays high-level metrics such as Total Revenue, Occupancy Rate, ADR (Average Daily Rate), RevPAR (Revenue per Available Room), and DSRN (Daily Sellable Room Nights).
+#### WoW Performance Trends (Line Charts)
+Line visuals track week-over-week trends for Revenue, ADR, and Occupancy, helping identify seasonality, performance dips, and recovery patterns.
+#### Hotel-Level Breakdown (Bar/Column Charts)
+Visuals highlight top and bottom performing hotels based on revenue and occupancy. Helps in benchmarking and identifying underachieving locations.
+#### Room Type Performance (Stacked Bars & Matrix Tables)
+Detailed breakdown of KPIs by room types, including which rooms generate the highest RevPAR or have lower realization. Supports targeted pricing and inventory strategies.
+#### Interactive Filters (Slicers)
+Users can dynamically filter visuals by Hotel Name, Room Type, and Date Range to conduct focused performance reviews.
+
+
 
