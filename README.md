@@ -35,10 +35,10 @@ Detailed breakdown of KPIs by room types, including which rooms generate the hig
 Users can dynamically filter visuals by Hotel Name, Room Type, and Date Range to conduct focused performance reviews.
 
 ### Business Impact & Insights
-• Performance Visibility: The dashboard enabled the revenue team to quickly identify underperforming hotels and room types, supporting more agile pricing and promotional strategies.
-• Operational Efficiency: Reduced manual reporting time by automating weekly tracking of KPIs and trends.
-• Revenue Optimization: Highlighted areas with unrealized revenue potential and supported decision-making around room pricing, allocation, and marketing efforts.
-• Market Share Recovery: Equipped decision-makers with insights that led to early intervention in declining metrics and helped stabilize revenue trends.
+• Performance Visibility: The dashboard enabled the revenue team to quickly identify underperforming hotels and room types, supporting more agile pricing and promotional strategies.  
+• Operational Efficiency: Reduced manual reporting time by automating weekly tracking of KPIs and trends.  
+• Revenue Optimization: Highlighted areas with unrealized revenue potential and supported decision-making around room pricing, allocation, and marketing efforts.  
+• Market Share Recovery: Equipped decision-makers with insights that led to early intervention in declining metrics and helped stabilize revenue trends.  
 
 ## Screenshots
 https://github.com/Sakshi-Hedau/Revenue-Insights-in-Hospitality-Domain/blob/main/Screenshot%202025-07-07%20140439.png
