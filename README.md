@@ -1,6 +1,6 @@
 # Revenue-Insights-in-Hospitality-Domain
 ## Description
-Developed a Power BI dashboard to investigate a decline in market share and revenue using three months of hotel booking data. The dashboard highlighted underperforming areas and empowered the revenue team to implement focused improvements.Key metrics like Revenue, ADR, and Week-over-Week (WoW) changes are visualized to support performance tracking.
+Developed a Power BI dashboard to investigate a decline in market share and revenue using three months of hotel booking data. The dashboard highlighted underperforming areas and empowered the revenue team to implement focused improvements. Key metrics like Revenue, ADR, and Week-over-Week (WoW) changes are visualized to support performance tracking.
 ## Tech Stack
 The dashboard was built using the following tools and technologies:  
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.  
@@ -33,6 +33,15 @@ Visuals highlight top and bottom performing hotels based on revenue and occupanc
 Detailed breakdown of KPIs by room types, including which rooms generate the highest RevPAR or have lower realization. Supports targeted pricing and inventory strategies.
 #### Interactive Filters (Slicers)
 Users can dynamically filter visuals by Hotel Name, Room Type, and Date Range to conduct focused performance reviews.
+
+### Business Impact & Insights
+• Performance Visibility: The dashboard enabled the revenue team to quickly identify underperforming hotels and room types, supporting more agile pricing and promotional strategies.
+• Operational Efficiency: Reduced manual reporting time by automating weekly tracking of KPIs and trends.
+• Revenue Optimization: Highlighted areas with unrealized revenue potential and supported decision-making around room pricing, allocation, and marketing efforts.
+• Market Share Recovery: Equipped decision-makers with insights that led to early intervention in declining metrics and helped stabilize revenue trends.
+
+## Screenshots
+
 
 
 
